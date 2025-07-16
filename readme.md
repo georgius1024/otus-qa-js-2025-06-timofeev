@@ -10,3 +10,8 @@ Lorem Ipsum dolores....
 ### Fearure 1
 Description:
 How to:
+
+### Feature 2
+- Option 
+- Option
+- Requirement
